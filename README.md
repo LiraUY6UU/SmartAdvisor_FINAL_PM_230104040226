@@ -34,9 +34,11 @@ Project ini dibangun menggunakan **Modern Android Development (MAD)** standards:
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 | Login Screen | Student Dashboard | Booking Form | Advisor Dashboard |
 |:---:|:---:|:---:|:---:|
-| <img src=![login](https://github.com/user-attachments/assets/dec02894-6c2f-4e42-9067-1f2f43ccf92a) width="220" /> | <img src=![student_dash](https://github.com/user-attachments/assets/2ec97c36-1841-4dfb-8954-96a965d03184) width="220" /> | <img src=![booking](https://github.com/user-attachments/assets/b226138e-8aae-42da-a52e-9dcfff8b59af) width="220" /> | <img src=![advisor_dash](https://github.com/user-attachments/assets/8e0f637e-b8ad-421d-9fc2-357b4d91b106) width="220" /> |
+| <img src="docs/login.png" width="220" /> | <img src="docs/student_dash.png" width="220" /> | <img src="docs/booking.png" width="220" /> | <img src="docs/advisor_dash.png" width="220" /> |
 
 ---
 
