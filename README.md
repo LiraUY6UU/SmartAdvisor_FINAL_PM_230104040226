@@ -29,17 +29,7 @@ Project ini dibangun menggunakan **Modern Android Development (MAD)** standards:
 * **Architecture:** MVVM (Model-View-ViewModel) Pattern
 * **Navigation:** Jetpack Navigation Compose
 * **Concurrency:** Kotlin Coroutines & Flow
-
----
-
-## 📸 Screenshots
-
-## 📸 Screenshots
-
-| Login Screen | Student Dashboard | Booking Form | Advisor Dashboard |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/login.png" width="220" /> | <img src="docs/student_dash.png" width="220" /> | <img src="docs/booking.png" width="220" /> | <img src="docs/advisor_dash.png" width="220" /> |
-
+  
 ---
 
 ## 🚀 Cara Menjalankan Aplikasi (How to Run)
@@ -79,4 +69,12 @@ com.example.smartadvisor
 ```
 
 ---
+## 📸 Screenshots
+
+![student_dash](https://github.com/user-attachments/assets/8043ffb1-425c-49c1-9aa8-e2d5072583de)
+![login](https://github.com/user-attachments/assets/48ac4212-d801-4520-a26b-84a762384d86)
+![booking](https://github.com/user-attachments/assets/1b19489c-42ee-4db4-8eb8-8a32ca8cf46a)
+![advisor_dash](https://github.com/user-attachments/assets/7a693d5c-202f-43c9-beeb-18da08a90255)
+
+
 *Lira Anggraini (230104040226) TI23A*
